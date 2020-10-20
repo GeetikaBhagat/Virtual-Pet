@@ -5,8 +5,8 @@ var foodS, foodStock;
 
 function preload() {
   //load images here
-  dogImg = loadImage('dogImg.png');
-  happyDog = loadImage('dogImg1.png');
+  dogImg = loadImage('Images/dogImg.png');
+  happyDog = loadImage('Images/dogImg1.png');
 }
 
 function setup() {
